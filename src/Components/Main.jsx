@@ -4,7 +4,13 @@ import { Header } from "./Header";
 import { Form } from "./Form";
 import { TodoList } from "./TodoList";
 import { alertType, alertClass } from "./data";
-let list = ["Item 1", "Item 2", "Item 3", "Item 4"];
+let list = [
+  "Learn React",
+  "Buy Earphones",
+  "Take Notes",
+  "Something",
+  "Solve Questions",
+];
 
 export default function Main() {
   let [data, setData] = useState(list);
