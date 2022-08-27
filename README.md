@@ -1,4 +1,4 @@
-# Todo List with React
+# Todo List
 
 Link: https://todo-react-harsh.netlify.app/
 
